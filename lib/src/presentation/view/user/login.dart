@@ -42,9 +42,9 @@ class _LoginScreenState extends State<LoginScreen> {
               children: [
                 Align(
                   alignment: Alignment.centerLeft,
-                  child: TTBackButton(
-                    onPressed: () => Navigator.pop(context),
-                  ),
+                  child: TTBackButton(onPressed: () {
+                    Navigator.pop(context);
+                  }),
                 ),
                 const SizedBox(height: 108),
                 Column(
