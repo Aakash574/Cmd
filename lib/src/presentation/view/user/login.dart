@@ -65,7 +65,9 @@ class _LoginScreenState extends State<LoginScreen> {
                       width: size.width,
                       height: 64,
                       padding: const EdgeInsets.symmetric(
-                          horizontal: 24, vertical: 8),
+                        horizontal: 24,
+                        vertical: 8,
+                      ),
                       decoration: BoxDecoration(
                         borderRadius: BorderRadius.circular(16),
                         color: Colors.white,
