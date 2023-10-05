@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403629444855",
+    "project_id": "tuk-tuk-1c63a",
+    "storage_bucket": "tuk-tuk-1c63a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403629444855:android:faca063827e93b33c98df2",
+        "android_client_info": {
+          "package_name": "com.nextdrio.tuktuk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxskyJrJeci37ocejl6z5F1zwyiiYZ2co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
